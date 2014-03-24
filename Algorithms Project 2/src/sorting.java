@@ -560,19 +560,14 @@ public class sorting {
         read = new BufferedReader(new InputStreamReader(System.in));
         
         randomGenerator = new Random();
-       
-        // looping 10 times
 
-        	System.out.print("*****************\n");
         try
         {
-            System.out.print("Please enter array size : 100,000\n");
-            //size = Integer.parseInt(read.readLine());
-            size = 100000;
+            System.out.print("Please enter array size : ");
+            size = Integer.parseInt(read.readLine());
             
-            System.out.print("Please enter the random range : 1,100,000,000\n");
-            //random = Integer.parseInt(read.readLine());
-            random = 1100000000;
+            System.out.print("Please enter the random range : ");
+            random = Integer.parseInt(read.readLine());
             
             // create array
             arr = new int[size];
