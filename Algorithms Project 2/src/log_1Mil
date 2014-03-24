@@ -1,0 +1,130 @@
+*****************
+Please enter array size : 100,000
+Please enter the random range : 1,000,000
+Arrays.sort: 120 milliseconds.
+heapsort: 31 milliseconds.
+quicksort: 35 milliseconds.
+quicksort A: 42 milliseconds.
+quicksort B: 29 milliseconds.
+quicksort C: 29 milliseconds.
+quicksort D: 25 milliseconds.
+quicksort E: 27 milliseconds.
+insertSort: 3346 milliseconds.
+mergesort: 66 milliseconds.
+*****************
+Please enter array size : 100,000
+Please enter the random range : 1,000,000
+Arrays.sort: 106 milliseconds.
+heapsort: 37 milliseconds.
+quicksort: 31 milliseconds.
+quicksort A: 41 milliseconds.
+quicksort B: 22 milliseconds.
+quicksort C: 24 milliseconds.
+quicksort D: 24 milliseconds.
+quicksort E: 24 milliseconds.
+insertSort: 3359 milliseconds.
+mergesort: 67 milliseconds.
+*****************
+Please enter array size : 100,000
+Please enter the random range : 1,000,000
+Arrays.sort: 102 milliseconds.
+heapsort: 44 milliseconds.
+quicksort: 55 milliseconds.
+quicksort A: 49 milliseconds.
+quicksort B: 27 milliseconds.
+quicksort C: 27 milliseconds.
+quicksort D: 24 milliseconds.
+quicksort E: 26 milliseconds.
+insertSort: 3507 milliseconds.
+mergesort: 65 milliseconds.
+*****************
+Please enter array size : 100,000
+Please enter the random range : 1,000,000
+Arrays.sort: 113 milliseconds.
+heapsort: 35 milliseconds.
+quicksort: 39 milliseconds.
+quicksort A: 49 milliseconds.
+quicksort B: 29 milliseconds.
+quicksort C: 24 milliseconds.
+quicksort D: 29 milliseconds.
+quicksort E: 31 milliseconds.
+insertSort: 3415 milliseconds.
+mergesort: 67 milliseconds.
+*****************
+Please enter array size : 100,000
+Please enter the random range : 1,000,000
+Arrays.sort: 107 milliseconds.
+heapsort: 46 milliseconds.
+quicksort: 108 milliseconds.
+quicksort A: 40 milliseconds.
+quicksort B: 29 milliseconds.
+quicksort C: 30 milliseconds.
+quicksort D: 28 milliseconds.
+quicksort E: 25 milliseconds.
+insertSort: 3504 milliseconds.
+mergesort: 58 milliseconds.
+*****************
+Please enter array size : 100,000
+Please enter the random range : 1,000,000
+Arrays.sort: 111 milliseconds.
+heapsort: 36 milliseconds.
+quicksort: 34 milliseconds.
+quicksort A: 41 milliseconds.
+quicksort B: 29 milliseconds.
+quicksort C: 30 milliseconds.
+quicksort D: 26 milliseconds.
+quicksort E: 25 milliseconds.
+insertSort: 3469 milliseconds.
+mergesort: 72 milliseconds.
+*****************
+Please enter array size : 100,000
+Please enter the random range : 1,000,000
+Arrays.sort: 86 milliseconds.
+heapsort: 35 milliseconds.
+quicksort: 46 milliseconds.
+quicksort A: 48 milliseconds.
+quicksort B: 29 milliseconds.
+quicksort C: 27 milliseconds.
+quicksort D: 25 milliseconds.
+quicksort E: 25 milliseconds.
+insertSort: 3540 milliseconds.
+mergesort: 67 milliseconds.
+*****************
+Please enter array size : 100,000
+Please enter the random range : 1,000,000
+Arrays.sort: 83 milliseconds.
+heapsort: 36 milliseconds.
+quicksort: 79 milliseconds.
+quicksort A: 41 milliseconds.
+quicksort B: 28 milliseconds.
+quicksort C: 31 milliseconds.
+quicksort D: 30 milliseconds.
+quicksort E: 26 milliseconds.
+insertSort: 3426 milliseconds.
+mergesort: 65 milliseconds.
+*****************
+Please enter array size : 100,000
+Please enter the random range : 1,000,000
+Arrays.sort: 107 milliseconds.
+heapsort: 36 milliseconds.
+quicksort: 36 milliseconds.
+quicksort A: 46 milliseconds.
+quicksort B: 29 milliseconds.
+quicksort C: 29 milliseconds.
+quicksort D: 26 milliseconds.
+quicksort E: 23 milliseconds.
+insertSort: 3481 milliseconds.
+mergesort: 66 milliseconds.
+*****************
+Please enter array size : 100,000
+Please enter the random range : 1,000,000
+Arrays.sort: 86 milliseconds.
+heapsort: 33 milliseconds.
+quicksort: 35 milliseconds.
+quicksort A: 77 milliseconds.
+quicksort B: 33 milliseconds.
+quicksort C: 21 milliseconds.
+quicksort D: 20 milliseconds.
+quicksort E: 27 milliseconds.
+insertSort: 3353 milliseconds.
+mergesort: 70 milliseconds.
