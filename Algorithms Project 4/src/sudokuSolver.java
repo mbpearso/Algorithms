@@ -28,17 +28,35 @@ public class sudokuSolver {
 
 	    // fix for some java compilers which handle -1 as bit vector wrong.
 	    if (pos == -1) {
-		if (board[0][0] == empty) return 0;
-		else pos = 0;
+	    	if (board[0][0] == empty) return 0;
+	    	else pos = 0;
 	    }
 
 	    int col = pos&15; 
 		int row = (pos >> 4)&15; 
+		int temp = 10000;
+		int temprow;
+		int tempcol;
 		
 		while (true) {
+			temprow = row;
+			tempcol = col;
 			++col; 
+			int total = 0;
 			if (col >= 9) { col = 0; row++; }
 			if (row >= 9) return success; // no more open positions
+			
+			for (int i = 1;i< 10; i++) {
+				if(feasible(row,col,i))
+					total++;
+			}
+			
+			if(total<temp)	{
+				temprow = row;
+				tempcol = col;
+				temp = total;
+			}
+			
 			if (board[row][col] <= empty) return (row << 4)+col;
 		}
 	}
